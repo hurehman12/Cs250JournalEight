@@ -1,6 +1,7 @@
 # Cs250JournalEight
 This repo contains Cs250 Module Eight journal entry and the questions answered in the readme
 
+IMPORTANT READ! TO VIEW THE WORD DOC CLICK "VIEW RAW"
 
 Update to readme with questions.
 
